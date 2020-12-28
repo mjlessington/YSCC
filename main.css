@@ -1,0 +1,21 @@
+body {
+    background-color: #ffc107;
+    position: relative;
+}
+ul.nav-pills {
+top: 20px;
+position:sticky;
+}
+div.col-8 div {
+height: auto;
+}
+.carousel-img {
+    max-height: 500px;
+    max-width: 95%;
+}
+h2, h5 {
+    font-family: 'Shadows Into Light', cursive; 
+    font-weight: bolder;
+}
+
+
