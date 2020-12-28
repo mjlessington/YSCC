@@ -13,9 +13,12 @@ height: auto;
     max-height: 500px;
     max-width: 95%;
 }
-h2, h5 {
+h2, h5, h4 {
     font-family: 'Shadows Into Light', cursive; 
     font-weight: bolder;
+}
+#headline {
+    font-style: italic;
 }
 
 
