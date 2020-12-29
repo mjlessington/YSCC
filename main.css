@@ -20,5 +20,15 @@ h2, h5, h4 {
 #headline {
     font-style: italic;
 }
-
-
+.nav-link {
+    font-family: 'Shadows Into Light', cursive;
+    font-weight: bolder;
+    font-size: 1.5rem !important;
+    color: black; 
+}
+p {
+    font-family: 'Raleway', sans-serif;
+}
+div {
+    background-color:#ffc107;
+}
