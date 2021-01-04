@@ -14,15 +14,18 @@ height: auto;
     max-width: 95%;
 }
 h2, h5, h4 {
-    font-family: 'Shadows Into Light', cursive; 
-    font-weight: bolder;
+    /* font-family: 'Shadows Into Light', cursive; 
+    font-weight: bolder; */
+
+    font-family: 'Yantramanav', sans-serif;
 }
 #headline {
     font-style: italic;
 }
 .nav-link {
-    font-family: 'Shadows Into Light', cursive;
-    font-weight: bolder;
+    /* font-family: 'Shadows Into Light', cursive;
+    font-weight: bolder; */
+    font-family: 'Yantramanav', sans-serif;
     font-size: 1.5rem !important;
     color: black; 
 }
@@ -31,4 +34,5 @@ p {
 }
 div {
     font-family: 'Raleway', sans-serif;
+    border-radius: 5px;
 }
