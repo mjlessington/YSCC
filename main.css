@@ -39,3 +39,8 @@ div {
     font-family: 'Raleway', sans-serif;
     border-radius: 5px;
 }
+.lvmheadings {
+    font-style: italic; 
+    font-weight: bolder;
+    text-decoration: underline;
+}
