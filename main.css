@@ -12,8 +12,9 @@ height: auto;
 .carousel-img {
     max-height: 500px;
     max-width: 100%;
-    padding-left: 10%;
-    padding-right: 10%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-top: 2%;
 }
 h2, h5, h4 {
     /* font-family: 'Shadows Into Light', cursive; 
