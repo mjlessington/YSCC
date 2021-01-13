@@ -14,7 +14,7 @@ height: auto;
     max-width: 100%;
     padding-left: 15%;
     padding-right: 15%;
-    padding-top: 2%;
+    
 }
 h2, h5, h4 {
     /* font-family: 'Shadows Into Light', cursive; 
@@ -29,7 +29,7 @@ h2, h5, h4 {
     /* font-family: 'Shadows Into Light', cursive;
     font-weight: bolder; */
     font-family: 'Yantramanav', sans-serif;
-    font-size: 1.5rem !important;
+    font-size: 1rem !important;
     color: black; 
 }
 p {
