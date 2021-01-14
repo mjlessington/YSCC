@@ -44,3 +44,17 @@ div {
     font-weight: bolder;
     text-decoration: underline;
 }
+.navbar {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    
+}
+nav {
+    opacity: .85;
+}
+.carousel-inner  {
+    padding-top: 5em;
+}
+.carousel-control-next, .carousel-control-prev {
+    top: 5em !important;
+}
