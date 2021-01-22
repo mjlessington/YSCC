@@ -1,6 +1,5 @@
 body {
-    background-color: #ffc107;
-    position: relative;
+    max-width: 800px !important;
 }
 ul.nav-pills {
 top: 20px;
