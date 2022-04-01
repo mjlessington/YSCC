@@ -3878,6 +3878,7 @@ input[type=button].btn-block {
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
+  font-weight: bold;
 }
 .nav-link:hover, .nav-link:focus {
   text-decoration: none;
@@ -10119,7 +10120,7 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #ffffff;
-  background-image: url("/assets/YSCCintersect.jpg");
+  background-image: url("../assets/Hero1.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
